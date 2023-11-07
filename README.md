@@ -1,4 +1,4 @@
-# Garry's Mod | Ornithopters
+# :video_game: Garry's Mod | Ornithopters :penguin:
 
 This repository stores duplications of different in-game ornithopter designs. It includes working vehicles along with prototypes for different concepts and components. 
 
